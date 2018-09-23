@@ -19,7 +19,7 @@
 
 #define KScreenWidth               [[UIScreen mainScreen] bounds].size.width
 #define KScreenHeight              [[UIScreen mainScreen] bounds].size.height
-#define unifiedColor               RGBACOLOR(245, 244, 246, 0.9)
+#define unifiedColor               RGBACOLOR(250, 250, 250, 0.9)
 #define pagecontrolIndicatorColor  RGBACOLOR(214, 214, 214, 1.0)
 #define pagecontrolCurrentColor    RGBACOLOR(139, 139, 139, 1.0)
 #define RGBACOLOR(r,g,b,a)         [UIColor colorWithRed:(r)/255.0\
