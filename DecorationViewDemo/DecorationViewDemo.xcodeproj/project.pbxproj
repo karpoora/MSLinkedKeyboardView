@@ -117,7 +117,6 @@
 		0EDB8E2321580ECE0037C6AA /* Factory.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8CE821580ECE0037C6AA /* Factory.png */; };
 		0EDB8E2421580ECE0037C6AA /* Goal.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8CE921580ECE0037C6AA /* Goal.png */; };
 		0EDB8E2521580ECE0037C6AA /* Libra.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8CEA21580ECE0037C6AA /* Libra.png */; };
-		0EDB8E2621580ECE0037C6AA /* Shield.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8CEB21580ECE0037C6AA /* Shield.png */; };
 		0EDB8E2721580ECE0037C6AA /* Planet.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8CEC21580ECE0037C6AA /* Planet.png */; };
 		0EDB8E2821580ECE0037C6AA /* Envelope.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8CED21580ECE0037C6AA /* Envelope.png */; };
 		0EDB8E2921580ECE0037C6AA /* Office-chair.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8CEE21580ECE0037C6AA /* Office-chair.png */; };
@@ -209,7 +208,7 @@
 		0EDB8E8121580ECF0037C6AA /* bowl.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8D4921580ECE0037C6AA /* bowl.png */; };
 		0EDB8E8221580ECF0037C6AA /* pulsometer.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8D4A21580ECE0037C6AA /* pulsometer.png */; };
 		0EDB8E8321580ECF0037C6AA /* thermometer.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8D4B21580ECE0037C6AA /* thermometer.png */; };
-		0EDB8E8421580ECF0037C6AA /* shield.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8D4C21580ECE0037C6AA /* shield.png */; };
+		0EDB8E8421580ECF0037C6AA /* Shield.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8D4C21580ECE0037C6AA /* Shield.png */; };
 		0EDB8E8521580ECF0037C6AA /* medicine-chest.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8D4D21580ECE0037C6AA /* medicine-chest.png */; };
 		0EDB8E8621580ECF0037C6AA /* Ambulance.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8D4E21580ECE0037C6AA /* Ambulance.png */; };
 		0EDB8E8721580ECF0037C6AA /* cardio-machine.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8D4F21580ECE0037C6AA /* cardio-machine.png */; };
@@ -298,7 +297,6 @@
 		0EDB8EDA21580ECF0037C6AA /* skipping-rope.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8DA421580ECE0037C6AA /* skipping-rope.png */; };
 		0EDB8EDB21580ECF0037C6AA /* tent.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8DA621580ECE0037C6AA /* tent.png */; };
 		0EDB8EDC21580ECF0037C6AA /* train.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8DA721580ECE0037C6AA /* train.png */; };
-		0EDB8EDD21580ECF0037C6AA /* bell.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8DA821580ECE0037C6AA /* bell.png */; };
 		0EDB8EDE21580ECF0037C6AA /* hotel.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8DA921580ECE0037C6AA /* hotel.png */; };
 		0EDB8EDF21580ECF0037C6AA /* cocktail.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8DAA21580ECE0037C6AA /* cocktail.png */; };
 		0EDB8EE021580ECF0037C6AA /* travel-suitcase.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EDB8DAB21580ECE0037C6AA /* travel-suitcase.png */; };
@@ -461,7 +459,6 @@
 		0EDB8CE821580ECE0037C6AA /* Factory.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Factory.png; sourceTree = "<group>"; };
 		0EDB8CE921580ECE0037C6AA /* Goal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Goal.png; sourceTree = "<group>"; };
 		0EDB8CEA21580ECE0037C6AA /* Libra.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Libra.png; sourceTree = "<group>"; };
-		0EDB8CEB21580ECE0037C6AA /* Shield.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shield.png; sourceTree = "<group>"; };
 		0EDB8CEC21580ECE0037C6AA /* Planet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Planet.png; sourceTree = "<group>"; };
 		0EDB8CED21580ECE0037C6AA /* Envelope.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Envelope.png; sourceTree = "<group>"; };
 		0EDB8CEE21580ECE0037C6AA /* Office-chair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Office-chair.png"; sourceTree = "<group>"; };
@@ -553,7 +550,7 @@
 		0EDB8D4921580ECE0037C6AA /* bowl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bowl.png; sourceTree = "<group>"; };
 		0EDB8D4A21580ECE0037C6AA /* pulsometer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pulsometer.png; sourceTree = "<group>"; };
 		0EDB8D4B21580ECE0037C6AA /* thermometer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thermometer.png; sourceTree = "<group>"; };
-		0EDB8D4C21580ECE0037C6AA /* shield.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shield.png; sourceTree = "<group>"; };
+		0EDB8D4C21580ECE0037C6AA /* Shield.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shield.png; sourceTree = "<group>"; };
 		0EDB8D4D21580ECE0037C6AA /* medicine-chest.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "medicine-chest.png"; sourceTree = "<group>"; };
 		0EDB8D4E21580ECE0037C6AA /* Ambulance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ambulance.png; sourceTree = "<group>"; };
 		0EDB8D4F21580ECE0037C6AA /* cardio-machine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardio-machine.png"; sourceTree = "<group>"; };
@@ -642,7 +639,6 @@
 		0EDB8DA421580ECE0037C6AA /* skipping-rope.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "skipping-rope.png"; sourceTree = "<group>"; };
 		0EDB8DA621580ECE0037C6AA /* tent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tent.png; sourceTree = "<group>"; };
 		0EDB8DA721580ECE0037C6AA /* train.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = train.png; sourceTree = "<group>"; };
-		0EDB8DA821580ECE0037C6AA /* bell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bell.png; sourceTree = "<group>"; };
 		0EDB8DA921580ECE0037C6AA /* hotel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hotel.png; sourceTree = "<group>"; };
 		0EDB8DAA21580ECE0037C6AA /* cocktail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cocktail.png; sourceTree = "<group>"; };
 		0EDB8DAB21580ECE0037C6AA /* travel-suitcase.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "travel-suitcase.png"; sourceTree = "<group>"; };
@@ -923,7 +919,6 @@
 				0EDB8CE821580ECE0037C6AA /* Factory.png */,
 				0EDB8CE921580ECE0037C6AA /* Goal.png */,
 				0EDB8CEA21580ECE0037C6AA /* Libra.png */,
-				0EDB8CEB21580ECE0037C6AA /* Shield.png */,
 				0EDB8CEC21580ECE0037C6AA /* Planet.png */,
 				0EDB8CED21580ECE0037C6AA /* Envelope.png */,
 				0EDB8CEE21580ECE0037C6AA /* Office-chair.png */,
@@ -1036,7 +1031,7 @@
 				0EDB8D4921580ECE0037C6AA /* bowl.png */,
 				0EDB8D4A21580ECE0037C6AA /* pulsometer.png */,
 				0EDB8D4B21580ECE0037C6AA /* thermometer.png */,
-				0EDB8D4C21580ECE0037C6AA /* shield.png */,
+				0EDB8D4C21580ECE0037C6AA /* Shield.png */,
 				0EDB8D4D21580ECE0037C6AA /* medicine-chest.png */,
 				0EDB8D4E21580ECE0037C6AA /* Ambulance.png */,
 				0EDB8D4F21580ECE0037C6AA /* cardio-machine.png */,
@@ -1146,7 +1141,6 @@
 			children = (
 				0EDB8DA621580ECE0037C6AA /* tent.png */,
 				0EDB8DA721580ECE0037C6AA /* train.png */,
-				0EDB8DA821580ECE0037C6AA /* bell.png */,
 				0EDB8DA921580ECE0037C6AA /* hotel.png */,
 				0EDB8DAA21580ECE0037C6AA /* cocktail.png */,
 				0EDB8DAB21580ECE0037C6AA /* travel-suitcase.png */,
@@ -1354,7 +1348,7 @@
 				0EDB8EDB21580ECF0037C6AA /* tent.png in Resources */,
 				0EDB8E6121580ECF0037C6AA /* battery.png in Resources */,
 				0EDB8DCF21580ECE0037C6AA /* mango.png in Resources */,
-				0EDB8E8421580ECF0037C6AA /* shield.png in Resources */,
+				0EDB8E8421580ECF0037C6AA /* Shield.png in Resources */,
 				0EDB8E4621580ECF0037C6AA /* charged-battery.png in Resources */,
 				0EDB8E4E21580ECF0037C6AA /* internet-explorer.png in Resources */,
 				0EDB8EC421580ECF0037C6AA /* chess-knight.png in Resources */,
@@ -1367,7 +1361,6 @@
 				0EDB8EBF21580ECF0037C6AA /* mushroom-from-Mario.png in Resources */,
 				0EDB8DC821580ECE0037C6AA /* fizzy-water.png in Resources */,
 				0EDB8E9D21580ECF0037C6AA /* Access.png in Resources */,
-				0EDB8E2621580ECE0037C6AA /* Shield.png in Resources */,
 				0EDB8E0621580ECE0037C6AA /* academic-hat.png in Resources */,
 				0EDB8E9821580ECF0037C6AA /* stethoscope.png in Resources */,
 				0EDB8EB521580ECF0037C6AA /* Pdf.png in Resources */,
@@ -1491,7 +1484,6 @@
 				0EDB8E0521580ECE0037C6AA /* diploma.png in Resources */,
 				0EDB8E3A21580ECF0037C6AA /* Board.png in Resources */,
 				0EDB8E8B21580ECF0037C6AA /* tablet.png in Resources */,
-				0EDB8EDD21580ECF0037C6AA /* bell.png in Resources */,
 				0EDB8E3C21580ECF0037C6AA /* Bank.png in Resources */,
 				0EDB8E6D21580ECF0037C6AA /* camcorder.png in Resources */,
 				0EDB8E2321580ECE0037C6AA /* Factory.png in Resources */,
