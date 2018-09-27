@@ -4,7 +4,6 @@
 ![image](MSScreenshotAnimation1.gif)
 ![image](MSScreenshotAnimation0.gif)
 ![image](MSScreenshotAnimation2.gif)
-
 ![image](Struct.png)
 
 
