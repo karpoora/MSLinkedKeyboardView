@@ -3,7 +3,7 @@
 //  DEMO
 //
 //  Created by 姜自佳 on 2017/5/7.
-//  Copyright © 2017年 MOMO. All rights reserved.
+//  Copyright © 2017年 JZJ. All rights reserved.
 //
 
 #import "SelecteView.h"
